@@ -15,7 +15,7 @@ sudo cp LinkRouter /usr/bin
 ```
 3- Run the app to install it. Close it on success message. 
 ```
-LinkRouter
+sudo LinkRouter
 ```
 4- Make it your default browser, so that it can catch all the urls and route it.
 ```
