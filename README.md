@@ -2,8 +2,8 @@
 LinkRouter is an another Weekend project to solve my small problem. This application allows you to choose the desired browser to open links when clicked outside of browsers.
 ## Demo
 
-## Installation
 ![ezgif com-video-to-gif(2)](https://github.com/Vishvajeet590/LinkRouter/assets/42716731/1f83cdff-1282-44e8-9749-bc84b88e62b2)
+## Installation
 
 1- Download the binary or build it using 
 ```
